@@ -1,0 +1,2 @@
+Congradulations You found the flag! Now go to my website and input this code in the flag section to get more info on me!
+CTF{4cc3ss1ng_th3_h1dd3n_vault}
